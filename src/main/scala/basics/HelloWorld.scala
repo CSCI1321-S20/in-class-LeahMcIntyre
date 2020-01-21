@@ -1,10 +1,6 @@
 package basics
-
 import scala.io.StdIn._
 
-/**
-This is a basic main for you to start off with.
-*/
 object HelloWorld {
 	def main(args: Array[String]): Unit = {
     println("What is your name?")
